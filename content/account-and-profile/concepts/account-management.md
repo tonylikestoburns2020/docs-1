@@ -46,7 +46,7 @@ For more information, see the following articles.
 * [AUTOTITLE](/organizations/managing-organization-settings/transferring-organization-ownership)
 * [AUTOTITLE](/organizations/managing-organization-settings/deleting-an-organization-account)
 * [AUTOTITLE](/account-and-profile/how-tos/organization-membership/removing-yourself-from-an-organization)
-* [AUTOTITLE](/account-and-profile/reference/personal-account-reference#account-deletion)
+* [AUTOTITLE](/account-and-profile/reference/personal-account-reference#side-effects-of-account-deletion)
 
 To delete your personal account, see [AUTOTITLE](/account-and-profile/how-tos/account-management/deleting-your-personal-account).
 
