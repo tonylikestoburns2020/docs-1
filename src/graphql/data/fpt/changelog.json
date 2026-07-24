@@ -4,6 +4,32 @@
       {
         "title": "The GraphQL schema includes these changes:",
         "changes": [
+          "<p>Type <code>ProofOfPresenceRequirement</code> was added</p>",
+          "<p>Enum value <code>MFA</code> was added to enum <code>ProofOfPresenceRequirement</code></p>",
+          "<p>Enum value 'NO_POLICY<code>was added to enum</code>ProofOfPresenceRequirement'</p>",
+          "<p>Enum value <code>REAUTH</code> was added to enum <code>ProofOfPresenceRequirement</code></p>",
+          "<p>Type <code>UpdateEnterpriseProofOfPresenceRequiredSettingInput</code> was added</p>",
+          "<p>Input field <code>clientMutationId</code> of type <code>String</code> was added to input object type <code>UpdateEnterpriseProofOfPresenceRequiredSettingInput</code></p>",
+          "<p>Input field <code>enterpriseId</code> of type <code>ID!</code> was added to input object type <code>UpdateEnterpriseProofOfPresenceRequiredSettingInput</code></p>",
+          "<p>Input field <code>settingValue</code> of type <code>ProofOfPresenceRequirement!</code> was added to input object type <code>UpdateEnterpriseProofOfPresenceRequiredSettingInput</code></p>",
+          "<p>Type <code>UpdateEnterpriseProofOfPresenceRequiredSettingPayload</code> was added</p>",
+          "<p>Field <code>clientMutationId</code> was added to object type <code>UpdateEnterpriseProofOfPresenceRequiredSettingPayload</code></p>",
+          "<p>Field <code>enterprise</code> was added to object type <code>UpdateEnterpriseProofOfPresenceRequiredSettingPayload</code></p>",
+          "<p>Field <code>message</code> was added to object type <code>UpdateEnterpriseProofOfPresenceRequiredSettingPayload</code></p>",
+          "<p>Field <code>updateEnterpriseProofOfPresenceRequiredSetting</code> was added to object type <code>Mutation</code></p>",
+          "<p>Argument <code>input: UpdateEnterpriseProofOfPresenceRequiredSettingInput!</code> added to field <code>Mutation.updateEnterpriseProofOfPresenceRequiredSetting</code></p>"
+        ]
+      }
+    ],
+    "previewChanges": [],
+    "upcomingChanges": [],
+    "date": "2026-07-23"
+  },
+  {
+    "schemaChanges": [
+      {
+        "title": "The GraphQL schema includes these changes:",
+        "changes": [
           "<p>Type <code>ApplyPendingIssueSuggestionsInput</code> was added</p>",
           "<p>Input field <code>actorId</code> of type <code>ID!</code> was added to input object type <code>ApplyPendingIssueSuggestionsInput</code></p>",
           "<p>Input field <code>clientMutationId</code> of type <code>String</code> was added to input object type <code>ApplyPendingIssueSuggestionsInput</code></p>",
